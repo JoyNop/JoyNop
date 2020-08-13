@@ -1,2 +1,0 @@
-OmegaOptions
-Proxy SwitchyOmega 配置文件备份
