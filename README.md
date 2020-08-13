@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.joynop.com">Blog</a> •
   <a href="https://github.com/joynop">GitHub</a> •
-  <a href="https://www.joynop.xyz">JoyNop Page</a> •
+  <a href="https://joynop.xyz">JoyNop Page</a> •
   <a href="https://HR.IM">HR.IM Page</a> •
   <a href="mailto:MAIL@HR.IM">Email</a> 
 <!--   <a href="https://gitee.com/">Gitee</a> • -->
