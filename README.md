@@ -5,7 +5,7 @@
   <a href="https://github.com/joynop">GitHub</a> 
 <!--   <a href="https://twitter.com/">Twitter</a> • -->
 <!--   <a href="https://gitee.com/">Gitee</a> • -->
-<!--   <a href="https://t.me/baoshuo">Telegram</a> -->
+<!--   <a href="https://t.me/">Telegram</a> -->
 </p>
 
 ### Github Stats
