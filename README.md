@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://www.joynop.com">Blog</a> •
   <a href="https://github.com/joynop">GitHub</a> •
-  <a href="https://www.joynop.xyz">JoyNop PAGE</a> •
-  <a href="https://HR.IM">HR.IM PAGE</a> •
-  <a href="mailto:MAIL@HR.IM">EMAIL</a> 
+  <a href="https://www.joynop.xyz">JoyNop Page</a> •
+  <a href="https://HR.IM">HR.IM Page</a> •
+  <a href="mailto:MAIL@HR.IM">Email</a> 
 <!--   <a href="https://gitee.com/">Gitee</a> • -->
 <!--   <a href="https://t.me/">Telegram</a> -->
 </p>
